@@ -17,16 +17,16 @@ body {
   border-style: solid;
 }
 
-.products-styled-table tbody tr:hover td{
-  background-color: #d3d3d3;
-}
-
 .products-styled-table tbody tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
 .products-styled-table tbody tr:nth-child(odd) {
   background-color: #ffffff;
+}
+
+.products-styled-table tbody tr:hover{
+  background-color: #d3d3d3;
 }
 
 .products-styled-table tfoot {
