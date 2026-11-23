@@ -12,7 +12,8 @@ body {
   border-style: solid;
 }
 
-.products-styled-table th, td {
+.products-styled-table th,
+td {
   border-width: 1px;
   border-style: solid;
 }
@@ -22,10 +23,10 @@ body {
 }
 
 .products-styled-table tbody tr:nth-child(odd) {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
-.products-styled-table tbody tr:hover{
+.products-styled-table tbody tr:hover {
   background-color: #d3d3d3;
 }
 
